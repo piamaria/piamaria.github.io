@@ -12,11 +12,11 @@ body {
     color: white;
 }
 
-.luokan-nimi {
-    width: 100px;
-    height: 100px;
+.luokan-nimi {    
     border-style: dotted;
-    border-width: 2px
+    border-width: 2px;
+    height: 100px;
+    width: 100px;
 }
 
 
