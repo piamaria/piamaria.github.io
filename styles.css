@@ -23,6 +23,7 @@ body {
 	position:fixed; 
 	top:0; 
 	left:0; 
+    padding: 1px 2px 3px 4px;
 } 
 
 ul { 
