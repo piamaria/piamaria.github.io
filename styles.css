@@ -1,10 +1,15 @@
-h1 {
+p.ppp {
     font-size: 20px;
     background: linear-gradient(white, white) padding-box, linear-gradient (98deg, darkblue, darkorchid) border-box;
     border-width: 6px;
     border-style: solid;
     border-color: transparent;
     border-radius: 0.4em;
+}
+
+h.one {
+    border-style: solid;
+  border-width: 20px 5px;
 }
 
 p {
