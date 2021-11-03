@@ -19,6 +19,11 @@ body {
     width: 100px;
 }
 
+#linkitys{ 
+	position:fixed; 
+	top:0; 
+	left:0; 
+} 
 
 ul { 
     list-style-type: square;
