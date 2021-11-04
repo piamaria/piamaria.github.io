@@ -95,17 +95,17 @@ ol {
     list-style-type: upper-alpha;
 }
 
-.nav{
+.menu{
     position: absolute;
     width: 100%
 }
 
-.nav a{
+.menu a{
     position: relative;
     left: 45%;
     top: 20px;
     color: white;
     text-decoration: none;
     margin-right: 20px;
-    
+
 }
