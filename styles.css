@@ -36,6 +36,25 @@ p.ppp {
     font-weight: 800px;
 }
 
+.navigation{
+    float: right;
+    height: 100%;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
+
+.navigation a li{
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    color: white;
+    font-size: 18px;
+}
 
 p {
     color: white;
