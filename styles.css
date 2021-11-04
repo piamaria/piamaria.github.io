@@ -11,7 +11,8 @@ p.ppp {
     width: 100%;
     height: 80px;
     display: block;
-    background-color: transparent;
+    background-color: darkslateblue;
+    color: white;
 
 }
 
