@@ -74,7 +74,8 @@ ol {
 h2{
     {
         border-radius: 25px;
-        border: 2px solid #73AD21;
+        border: 2px
+        color: white;
         padding: 20px; 
         width: 30%;
         height: 80%;  
