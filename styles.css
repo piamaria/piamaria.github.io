@@ -23,7 +23,7 @@ p.ppp {
 }
 
 
-.otsikko h1 {
+#otsikko h1 {
    color: white;
    height: 100%;
    display: table-cell;
@@ -32,7 +32,8 @@ p.ppp {
    font-weight: 200px;
 }
 
-.otsikko h1 span{
+
+#otsikko h1 span{
     font-weight: 800px;
 }
 
