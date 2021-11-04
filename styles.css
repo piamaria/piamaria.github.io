@@ -29,6 +29,8 @@ p.ppp {
     height: 100%;
     display: block;
     margin: 0 auto;
+    color: red;
+    
 }
 
 
@@ -106,5 +108,5 @@ h2{
     border-style: solid;
     border-width: 2px;
     border-color: white;
-    
+
 }
