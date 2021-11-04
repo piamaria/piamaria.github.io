@@ -70,15 +70,3 @@ ul {
 ol { 
     list-style-type: upper-alpha;
 }
-
-h2{
-    {
-        border-radius: 25px;
-        border: 2px
-        color: white;
-        padding: 20px; 
-        width: 30%;
-        height: 80%;  
-      }
-
-}
