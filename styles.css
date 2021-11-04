@@ -61,20 +61,7 @@ html {
     body{
     background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
     }
-
-.luokan-nimi {    
-    border-style: dotted;
-    border-width: 2px;
-    height: 100px;
-    width: 100px;
-}
-
-#linkitys{ 
-	position:fixed; 
-	top:0; 
-	left:0; 
-    padding: 1px 2px 3px 4px;
-} 
+ 
 
 ul { 
     list-style-type: square;
