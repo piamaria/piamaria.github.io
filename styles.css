@@ -50,37 +50,9 @@ p.ppp {
 }
 
 
-#otsikko h1 span{
-    font-weight: 800px;
-}
-
-.navigaatio{
-    float: right;
-    height: 100%;
-}
-
-.navigaatio a{
-    height: 100%;
-    display: table;
-    float: left;
-    padding: 0px 20px;
-}
-
-.navigaatio a li{
-    display: table-cell;
-    vertical-align: middle;
-    height: 100%;
-    color: white;
-    font-size: 18px;
-}
-
-p {
-    color: white;
-    font-size: 12px;
-}
-
 html {
     height: 100%;
+    text-align: center;
     }
     body{
     background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
