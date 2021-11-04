@@ -12,12 +12,23 @@ p.ppp {
     height: 80px;
     display: block;
     background-color: transparent;
-    
+
 }
 
-h1.one {
-    border-style: solid;
-  border-width: 20px 5px;
+.inner-header{
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+
+h1.otsikko {
+   color: white;
+   height: 100%;
+   display: table-cell;
+   vertical-align: middle;
+   font-size: 32px;
 }
 
 p {
