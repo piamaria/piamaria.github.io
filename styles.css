@@ -36,19 +36,19 @@ p.ppp {
     font-weight: 800px;
 }
 
-.navigation{
+.navigaatio{
     float: right;
     height: 100%;
 }
 
-.navigation a{
+.navigaatio a{
     height: 100%;
     display: table;
     float: left;
     padding: 0px 20px;
 }
 
-.navigation a li{
+.navigaatio a li{
     display: table-cell;
     vertical-align: middle;
     height: 100%;
