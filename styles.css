@@ -76,6 +76,10 @@ h2 {
     width: 200px;
     height: 1000px; 
     align: center;
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-left: 10%;
   }
 
   }
