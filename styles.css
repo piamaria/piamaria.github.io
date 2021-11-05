@@ -62,7 +62,7 @@ ol {
     list-style-type: upper-alpha;
 }
 
-h2 {
+h2.eteneminen {
         border-bottom: double;
         width: 50%;
         border-bottom-color: white;
@@ -73,12 +73,14 @@ h2 {
  div.logo {
     border-radius: 99px;
     background-image: linear-gradient(to bottom right, purple, white);
-    padding-top: 5%;
-    padding-right: 10%;
-    padding-bottom: 10%;
-    padding-left: 10%;
-    width: 5%;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+	width: 50%;
     text-align:center; 
+   	margin:auto;
+
   }
 
   
