@@ -66,6 +66,7 @@ h2 {
         border-bottom: double;
         width: 50%;
         border-bottom-color: white;
+        align: center;
   }
 
  p {
@@ -73,13 +74,8 @@ h2 {
     background-image: linear-gradient(to bottom right, purple, white);
     padding: 20px; 
     width: 200px;
-    height: 150px; 
+    height: 1000px; 
+    align: center;
   }
-
-  p.testi {
-    border-radius: 99px;
-    padding: 20px; 
-    width: 200px;
-    height: 150px;
 
   }
