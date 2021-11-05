@@ -35,15 +35,6 @@ header {
 
 }
 
-p.ppp {
-    font-size: 20px;
-    background: linear-gradient(white, white) padding-box, linear-gradient (98deg, darkblue, darkorchid) border-box;
-    border-width: 6px;
-    border-style: solid;
-    border-color: transparent;
-    border-radius: 0.4em;
-}
-
 
 html {
     height: 100%;
@@ -62,7 +53,7 @@ ol {
     list-style-type: upper-alpha;
 }
 
-h2.eteneminen {
+h2.kokeilu {
         border-bottom: double;
         width: 50%;
         border-bottom-color: white;
