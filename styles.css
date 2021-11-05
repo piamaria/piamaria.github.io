@@ -75,3 +75,11 @@ h2 {
     width: 200px;
     height: 150px; 
   }
+
+  p.testi {
+    border-radius: 99px;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+
+  }
