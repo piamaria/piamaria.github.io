@@ -62,7 +62,7 @@ ol {
     list-style-type: upper-alpha;
 }
 
-h2.one {
+h2 {
         border-bottom: double;
         width: 50%;
         border-bottom-color: white;
