@@ -56,13 +56,13 @@ h2.kokeilu {
         border-bottom: double;
         width: 50%;
         border-bottom-color: white;
-        text-align:center
+        text-align:center;
 
   }
 
  div.logo {
     border-radius: 99px;
-    background-image: linear-gradient(to bottom right, purple, white);
+    background-image: linear-gradient(to bottom right, #FF77CC, white);
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
