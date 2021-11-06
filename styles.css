@@ -12,12 +12,6 @@ body{
 
 /* seuraava osuus koskee nav */
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial;
-}
-
 nav{
     position: fixed;
     top: 0;
