@@ -38,11 +38,12 @@ header {
 html {
     height: 100%;
     text-align: center;
-    text-color: white;
     }
-    body{
+
+body{
     background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
-    }
+    color: white;
+}
  
 
 ul { 
