@@ -77,10 +77,10 @@ h2.kokeilu {
 
   }
 
-  .navigation {
+ #navigation {
     float: left;
     width: 30%;
-    height: 300px; /* only for demonstration, should be removed */
+    height: 200px; /* only for demonstration, should be removed */
     padding: 20px;
   }
 
