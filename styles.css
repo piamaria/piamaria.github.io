@@ -1,5 +1,8 @@
 
 
+
+/* seuraava osuus koskee nav */
+
 body {
     margin: 0;
     padding: 0;
@@ -19,7 +22,7 @@ nav{
 
 }
 
-nav .logo {
+div .logo {
     padding: 22px 20px;
     height: 80px;
     float: left;
