@@ -81,11 +81,6 @@ h2.kokeilu {
     float: left;
     width: 30%;
     height: 300px; /* only for demonstration, should be removed */
-    background: #ccc;
     padding: 20px;
   }
 
-  .navigation ul {
-    list-style-type: none;
-    padding: 5px;
-  }
