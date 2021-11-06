@@ -82,7 +82,7 @@ h2.kokeilu {
     width: 30%;
     height: 200px; /* only for demonstration, should be removed */
     padding: 20px;
-    background: transparent;
+    color: white;
   }
 
  nav ul {
