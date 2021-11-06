@@ -3,7 +3,7 @@
 
 /* seuraava osuus koskee nav */
 
-body {
+body .nav {
     margin: 0;
     padding: 0;
     font-family: Arial;
