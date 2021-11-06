@@ -10,6 +10,7 @@ body{
     text-align:center; 
     min-height: 100%;
     margin-bottom: 50px;
+    margin-top:0px;
 
 }
 
@@ -53,6 +54,7 @@ nav ul li a:hover {
     background:rgba(0,0,0,0.7);
     border-radius: 6px;
 }
+
 #logo {
     padding: 22px 20px;
     height: 80px;
@@ -87,7 +89,7 @@ h2.kokeilu {
 
 }
 
-#kuvake {
+.kuvake {
 border-radius: 99px;
 background-image: linear-gradient(to bottom right, blue, pink);
 padding-top: 15px;
@@ -98,4 +100,8 @@ width: 50%;
 text-align:center; 
    margin:auto;
 
+}
+
+ol { 
+    list-style-type: upper-alpha;
 }
