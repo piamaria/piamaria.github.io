@@ -83,12 +83,19 @@ h2.kokeilu {
     height: 200px; /* only for demonstration, should be removed */
     padding: 20px;
     color: white;
+    background: black;
   }
 
  nav ul {
     list-style-type: none;
     padding: 5px;
     color: white;
+  }
+
+  section::after {
+    content: "";
+    display: table;
+    clear: both;
   }
 
 .menu{
