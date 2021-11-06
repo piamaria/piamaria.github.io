@@ -59,7 +59,8 @@ h2.kokeilu {
         border-bottom-color: white;
         text-align:center;
         margin: auto;
-        padding: 50px;
+        padding top: 50px;
+        padding bottom: 20px;
         width: 60%;
 
   }
