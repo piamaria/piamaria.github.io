@@ -77,7 +77,21 @@ h2.kokeilu {
 
   }
 
- 
+nav {
+    float: left;
+    width: 30%;
+    height: 200px; /* only for demonstration, should be removed */
+    padding: 20px;
+    color: white;
+  }
+
+ ul.nav-links {
+    list-style-type: none;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+  }
+
 
 .menu{
     position: absolute;
