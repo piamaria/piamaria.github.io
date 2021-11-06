@@ -82,13 +82,14 @@ nav {
     width: 30%;
     height: 200px; /* only for demonstration, should be removed */
     padding: 20px;
-    color: white;
+    color: #FFFFFF;
+    background: violet;
   }
 
  ul.nav-links {
     list-style-type: none;
     padding: 5px;
-    color: white;
+    color: #FFFFFF;
     font-size: 20px;
   }
 
