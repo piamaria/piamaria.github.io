@@ -9,7 +9,6 @@ body{
 }
 
 
-
 /* seuraava osuus koskee nav */
 
 nav{
@@ -25,7 +24,7 @@ nav{
 
 }
 
-div .logo {
+div #logo {
     padding: 22px 20px;
     height: 80px;
     float: left;
