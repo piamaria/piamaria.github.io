@@ -9,9 +9,13 @@ body{
     min-height: 100%;
     margin-bottom: 50px;
     margin-top:0px;
+    min-height: 100vh;
 
 }
 
+html {
+    min-height: 100%;
+}
 
 /* seuraava osuus koskee nav */
 
@@ -27,8 +31,6 @@ nav{
     border-bottom: 1px solid #fff;
 
 }
-
-
 
 nav ul{
     list-style: none;
@@ -51,7 +53,9 @@ nav ul li a {
 nav ul li a:hover {
     background:rgba(0,0,0,0.7);
     border-radius: 6px;
+    color: #ff0000;
 }
+
 
 #logo {
     padding: 22px 20px;
@@ -68,6 +72,7 @@ h1 {
     text-align: center;
 }
 
+
 ul { 
     list-style-position: inside;
 }
@@ -75,6 +80,7 @@ ul {
 ol { 
     list-style-position: inside;
 }
+
 
 .kokeilu {
     border-bottom: double;
@@ -96,10 +102,65 @@ padding-bottom: 15px;
 padding-left: 15px;
 width: 50%;
 text-align:center; 
-   margin:auto;
+margin:auto;
 
 }
 
 ol { 
     list-style-type: upper-alpha;
+}
+
+
+
+.vertical-nav {
+    float: left;
+    width: 30%;
+    height: 250px; /* only for demonstration, should be removed */
+    background: none;
+    padding: 20px;
+    color: white;
+
+}
+
+#kuusi-B nav ul {
+    list-style-type: none;
+    padding: 0;
+    float: right;
+    color: white;
+    text-align: left;
+}
+
+#kuusi-B nav ul li a{
+    list-style-type: none;
+    padding: 0;
+    float: left;
+    color: white;
+    text-align: left;
+  }
+
+
+.first-second {
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    padding-bottom: 50px;
+    float: left;
+}
+
+.second-second {
+    width: 40%;
+    padding: 10px 10px 10px 10px;
+    float: left;
+    }
+
+h4 {
+    padding: 10px 70px 10px 10px;
+    text-align: center;
+    float: center;
+}
+
+#linkki a{
+    padding: 10px 70px 10px 10px;
+    text-align: center;
+    float: center;
+
 }
