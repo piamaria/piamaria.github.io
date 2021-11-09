@@ -101,7 +101,7 @@ ol {
 .kuvake {
 border-radius: 99px;
 background-image: linear-gradient(to bottom right, blue, pink);
-padding-top: 15x;
+padding-top: 15px;
 padding-right: 15px;
 padding-bottom: 15px;
 padding-left: 15px;
@@ -116,35 +116,33 @@ ul {
 }
 
 
-/* Palstat */
+/* Logot */
 
 .first-second {
     width: 50%;
     padding: 10px 20px 10px 10px;
-    padding-bottom: 50px;
+   /* padding-bottom: 50px; */
     float: left;
     margin-top: 2%;
     margin-bottom: 2%;
 }
 
 .second-second {
-    width: 40%;
-    padding: 10px 10px 10px 10px;
+    width: 50%;
+    padding: 10px 20px 10px 10px;
     float: left;
     margin-top: 2%;
     margin-bottom: 2%;
     }
 
 h4 {
-    padding: 10px 70px 10px 10px;
     text-align: center;
-    float: center;
 }
 
 #linkki a{
     padding: 10px 70px 10px 10px;
     text-align: center;
-    float: center;
+
 
 }
 
@@ -157,7 +155,7 @@ h4 {
   
   #vertical li a {
     display: block;
-    background-color: none;
+   /*  background-color: none; */
     color: white;
     text-transform: uppercase;
     font-weight: bold;
@@ -165,9 +163,11 @@ h4 {
 
   }
 
+ /* ei toimi niinkuin haluaisin
+
   .viimeinen {
     display:inline-block;
-    float: right;
+    float: left;
   
   }
   
@@ -178,16 +178,8 @@ h4 {
     padding-top: 30px;
     padding-bottom: 20px;
     float: none;
-}
+    
+  }
 
 
-  .kokeilu {
-    border-bottom: double;
-    border-bottom-color: white;
-    text-align:center;
-    margin: auto;
-    width: 60%;
-    padding-top: 20px;
-    padding-bottom: 20px;
-
-}
+*/
